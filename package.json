@@ -1,0 +1,19 @@
+{
+  "name": "studi-kasus-1-yeremiadl",
+  "version": "1.0.0",
+  "description": "studi-kasus-1-yeremiadl created by GitHub Classroom",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2021-IF-PemrogramanWeb/studi-kasus-1-yeremiadl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2021-IF-PemrogramanWeb/studi-kasus-1-yeremiadl/issues"
+  },
+  "homepage": "https://github.com/2021-IF-PemrogramanWeb/studi-kasus-1-yeremiadl#readme"
+}
